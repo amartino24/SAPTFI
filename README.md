@@ -2,6 +2,10 @@
 
 ## Adjunto documentación solicitada
 - [x] Project Charter
+- [x] Alcance
+- [x] Registro de Stakeholders
+
+
 - [x] Modelo de Dominio
 
 
