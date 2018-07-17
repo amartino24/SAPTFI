@@ -15,3 +15,16 @@ Subo 2 modelos de dominio. Uno mas simplificado que el otro. Probablemente uno s
 - [x] Arquitectura
 - [x] Modelo 2000
 
+### Caso de uso: Nuevo contrato de alquiler
+
+- [x] Diagrama de casos de uso
+- [x] Diagrama de robustez
+- [x] Manual de usuario
+
+-----------------------------------------------
+
+- [x] Patrón Singleton
+- [x] Patrón Composite
+
+
+
